@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Travel Destination</title>
+</head>
+<body>
+
+<h1>Explore Goa</h1>
+
+<p>
+Goa is one of the most popular travel destinations in India, famous for its
+beautiful beaches, vibrant nightlife, rich culture, and delicious seafood.
+</p>
+
+<hr>
+
+<!-- Image Section -->
+<h2>Beautiful Places in Goa</h2>
+
+<img src="C:\Users\Lenovo\Downloads\goa1.jpg" alt="Goa Beach" width="300" height="200">
+<img src="C:\Users\Lenovo\Downloads\goa2.jpg" alt="Goa Church" width="300" height="200">
+<img src="C:\Users\Lenovo\Downloads\goa3.jpg" alt="Goa Sunset" width="300" height="200">
+
+<hr>
+
+<!-- Tourist Spots -->
+<h2>Top Tourist Attractions</h2>
+<ul>
+<li>Baga Beach</li>
+<li>Calangute Beach</li>
+<li>Basilica of Bom Jesus</li>
+<li>Dudhsagar Waterfalls</li>
+<li>Anjuna Beach</li>
+</ul>
+
+<hr>
+
+<!-- Best Time to Visit -->
+<h2>Best Time to Visit</h2>
+<p>
+The best time to visit Goa is from <b>November to February</b>, when the weather
+is pleasant and ideal for sightseeing and beach activities.
+</p>
+
+<hr>
+
+<!-- Travel Tips -->
+<h2>Travel Tips</h2>
+<ol>
+<li>Carry light cotton clothes</li>
+<li>Book hotels in advance</li>
+<li>Try local Goan cuisine</li>
+<li>Follow beach safety rules</li>
+</ol>
+
+<hr>
+
+
+</body>
+</html>
